@@ -1,6 +1,8 @@
 # software_hw4
 Assignment 4 in COMP 333 at Wesleyan University
 
+
+# Noah - Deployment
 backend - https://music-mobile.herokuapp.com/admin/
 
 frontend - https://music-mobile-1167e.web.app/
@@ -17,6 +19,10 @@ In order to edit or enter a rating you must use
 unless you manualy add a user with the admin page.
 
 
+# React Native 
+
+## Django Backend Installation
+To run this project, you need to have Python 3+ and npm (from Node.js) installed.
 
 ## 1. Start Virtual Enviroment
 In your terminal, change the current working directory to <local directory of your choice> and run:
