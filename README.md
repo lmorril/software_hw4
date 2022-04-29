@@ -1,5 +1,5 @@
-# software_hw4
-Assignment 4 in COMP 333 at Wesleyan University
+# Software_hw4
+Assignment 4 in COMP 333 at Wesleyan University.
 
 
 # Noah - Deployment
@@ -83,18 +83,18 @@ Then, follow the instruction in the terminal to either open Android, iOS or web 
 ### Using the App - Core Features:
 
 ### On Home screen
-  - Table of viewable ratings. Click on edit or delete to change the entries.
+  - Table of viewable ratings. Click the delete icon on the right to remove an entry from the database.
+  - Click on "Rate something new" to jump to Add Rating screen
+  - Click on "Edit current ratings " to jump to Edit Ratings screen. 
+  - Click on "Checkout statistics" to jump to On Stats screen.
 
-     - Edit: Re-enter the id and username, then change to the rating you want. After clicking save, reload the page to see your edited entry in the table
-     - Delete: click delete to remove entry from the database
+### On Add Rating screen
+  - Add your new rating by enter your username, song, artist, and rating to create a new rating in the app. Note that you can only add ratings that range from 1-5 and if you enter the correct usernamme.
+  - After clicking submit, go to Home screen and press Refresh to reload the page.
 
-  - Add your new rating by enter your id, username, song, artist, and rating to create a new rating in the app. Note that you can only add ratings that ate 1-5 and if you enter the correct ID.
-
-### On Add User screen
-
-  - Search the database for all entries of a certain artist. Type in the artist name and find past ratings for each of their songs
+### On Edit Ratings screen
+  - Edit the existing entries by re-entering the username and song name, and then changing to the rating you want.
+  - After clicking save, go to Home screen and press Refresh to reload the page.
 
 ### On Stats screen
-
   - Get summary stats of the ratings. Provided is average rating across all songs, average rating by artist, and average rating by song.
-
