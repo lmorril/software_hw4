@@ -98,5 +98,6 @@ Then, follow the instruction in the terminal to either open Android, iOS or web 
 
 ### On Stats screen
   - Get summary stats of the ratings. Provided is average rating across all songs, average rating by artist, and average rating by song.
- ### On Search Screen
- - Search for rating by artist name. Upon entering an artist's name, you will see a list of all the rating of that artist.
+
+### On Search Screen
+  - Search for rating by artist name. Upon entering an artist's name, you will see a list of all the rating of that artist.
