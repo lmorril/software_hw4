@@ -19,13 +19,17 @@ In order to edit or enter a rating you must use
 unless you manualy add a user with the admin page.
 
 
-# React Native 
+# React Native App - Instructions
 
-## Django Backend Installation
+## 0. Installation
 To run this project, you need to have Python 3+ and npm (from Node.js) installed.
+Then, clone this project with the following command:
+```bash
+git clone https://github.com/lmorril/assignment3.git <local directory of your choice>
+```
 
 ## 1. Start Virtual Enviroment
-In your terminal, change the current working directory to <local directory of your choice> and run:
+In your terminal, change the current working directory to "local directory of your choice" and run:
 ```bash
 source django-react/bin/activate
 ```
@@ -54,3 +58,5 @@ The dependencies should be installed on the virtual environment, but just in cas
 ```bash
 pip3 install djangorestFramework django-cors-headers
 ```
+
+## 3. Running the Frontend
