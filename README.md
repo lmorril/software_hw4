@@ -2,7 +2,7 @@
 Assignment 4 in COMP 333 at Wesleyan University.
 
 
-# Noah - Deployment
+# Heroku - Deployment
 backend - https://music-mobile.herokuapp.com/admin/
 
 frontend - https://music-mobile-1167e.web.app/
